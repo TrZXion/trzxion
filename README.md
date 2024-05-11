@@ -1,27 +1,12 @@
 ### Hi there 👋
 
-<!--
-**TrZXion/trzxion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently working on ...
--  I’m currently learning ...
-- 👯 I’m looking to collaborate on Deep Learning
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--  Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 💫 About Me:
 -🌱 Software Engineer sharing about my journey and learnings in tech<be>
 -😄 Studied Computer Science at KIIT University, India with a cool 9.18 CGPA. <be>
 -🔭 Making videos about Computer Science, tech, and productivity on YouTube<be>
 -⭐ Learning in public in my digital garden<be>
--💻 Currently learning about Machine Learning
-- 🤔 I’m looking for help with Data Engineering
+-💻 Currently learning about Machine Learning<be>
+-🤔 I’m looking for help with Data Engineering<be>
 
 
 ## 🌐 Socials:
