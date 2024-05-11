@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there 👋<br/>
 
-# 💫 About Me:
--🌱 Software Engineer sharing about my journey and learnings in tech<be>
--😄 Studied Computer Science at KIIT University, India with a cool 9.18 CGPA. <be>
--🔭 Making videos about Computer Science, tech, and productivity on YouTube<be>
--⭐ Learning in public in my digital garden<be>
--💻 Currently learning about Machine Learning<be>
--🤔 I’m looking for help with Data Engineering<be>
+# 💫 About Me:<br/>
+-🌱 Software Engineer sharing about my journey and learnings in tech<br/>
+-😄 Studied Computer Science at KIIT University, India with a cool 9.18 CGPA.<br/>
+-🔭 Making videos about Computer Science, tech, and productivity on YouTube<br/>
+-⭐ Learning in public in my digital garden<br/>
+-💻 Currently learning about Machine Learning<br/>
+-🤔 I’m looking for help with Data Engineering<br/>
 
 
 ## 🌐 Socials:
